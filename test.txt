@@ -1,4 +1,4 @@
-welcome to git
+welcome to git hello.
 we will test branch.
 Create a new branch is quick AND simple.
 we commit new test.txt.
