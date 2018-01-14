@@ -1,2 +1,3 @@
 welcome to git
 we will test branch.
+Create a new branch is quick AND simple.
